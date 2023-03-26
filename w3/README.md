@@ -49,4 +49,30 @@ cat ret2.txt
  cat ret3.txt
  
  exit 0
-```
+```   
+## 마크다운    
+
+### 목록   
+
+#### 번호 있는 목록 : 내림차순 정렬   
+1. 첫번째
+2. 세번째
+3. 두번째
+
+----
+#### 번호 없는 목록 : *,-,+   
+* 첫번째
+* 세번째
+* 두번째   
+
+----    
+* 빨강
+   - 녹색
+        + 파랑  
+
+#### 강조   
+_single asterisks_   
+*single underscores*   
+__double asterisks__   
+**double underscores**   
+~~cancelline~~
