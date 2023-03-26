@@ -22,7 +22,7 @@
  
  
 <hr/>
- '''   
+ '''     
  #!/usr/bin/env bash
  echo "—————\n"
  echo "name :\n"
