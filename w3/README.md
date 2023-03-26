@@ -5,10 +5,10 @@
 "OSS_w3_KAU")![OSS_w3_KAU](https://user-images.githubusercontent.com/127469548/227714922-28779c8e-4190-4ece-9a1d-e51a9be51961.jpg)
 
 ### **링크**   
-### [LMS](#https://lms.kau.ac.kr/login.php)
+### [LMS](https://lms.kau.ac.kr/login.php)
 
 ### **ProGit 링크**   
-### [ProGit](#https://git-scm.com/book/en/v2)   
+### [ProGit](https://git-scm.com/book/en/v2)   
 
 ### 주요 git 명령어 
 * add : 파일을 추적 대상으로 포함시킬 때, 또는 커밋 대상으로 포함시킬 때 사용   
@@ -21,7 +21,9 @@
   * 예) git log --oneline --decorate --graph --all   
  
  
-<hr/>
+<hr/> 
+
+### 2주차 숙제   
 
  ```   
  #!/usr/bin/env bash
