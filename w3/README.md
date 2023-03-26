@@ -22,7 +22,7 @@
  
  
 <hr/>
- '''     
+ ```     
  #!/usr/bin/env bash
  echo "—————\n"
  echo "name :\n"
@@ -46,4 +46,4 @@ cat ret2.txt
  
  tail -1 /home/kau2/k/w2_homework.txt >> ret3.txt
  cat   
-'''
+```
