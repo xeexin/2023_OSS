@@ -1,7 +1,7 @@
 ### 3주차 git
 
 ### 이미지
-![Alt text](/path/to/img.jpg 
+![](/path/to/img.jpg 
 "OSS_w3_KAU")![OSS_w3_KAU](https://user-images.githubusercontent.com/127469548/227714922-28779c8e-4190-4ece-9a1d-e51a9be51961.jpg)
 
 ### **링크**   
